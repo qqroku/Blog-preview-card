@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-#At desktop view
+# At desktop view
 ![desktop view](./SS_output/at_desktop-view.png)
 
-#At mobile view
+# At mobile view
 ![mobile view](./SS_output/at_mobile-view.png)
 
 ### Links
