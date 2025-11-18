@@ -15,5 +15,5 @@
 .DS_Store
 .prettierignore
 
-# Other file/folder to be ignored
+# Remove other file/folder from tracking
 README-template.md
