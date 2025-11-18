@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/qqroku/Blog-preview-card-Frontend-Mentor)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://qqroku.github.io/Blog-preview-card/)
 
 ## My process
 
